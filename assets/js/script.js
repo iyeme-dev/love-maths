@@ -28,10 +28,6 @@ function runGame() {
 
 }
 
-function runGame() {
-
-}
-
 function checkAnswer() {
 
 }
